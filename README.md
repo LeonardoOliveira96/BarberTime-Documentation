@@ -16,32 +16,35 @@ BarberTime é uma plataforma inovadora para agendamento de serviços de barbeari
 
 Abaixo está o fluxo completo de agendamento na plataforma BarberTime para clientes:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin-bottom: 30px;">
-    <div style="text-align: center;">
-        <img src="screenshots/login cliente.png" alt="Tela de Login" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
-        <p><strong>1. Login do Cliente</strong> - Autenticação segura para acessar a plataforma.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="screenshots/escolha-dobarbeiro.png" alt="Escolha do Barbeiro" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
-        <p><strong>2. Escolha do Barbeiro</strong> - Seleção de profissionais disponíveis.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="screenshots/tela de datas.png" alt="Seleção de Data" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
-        <p><strong>3. Seleção de Data</strong> - Escolha da data e horário para o atendimento.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="screenshots/escolha do corte.png" alt="Escolha do Serviço" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
-        <p><strong>4. Escolha do Serviço</strong> - Seleção do tipo de corte desejado.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="screenshots/confirmaçao.png" alt="Confirmação" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
-        <p><strong>5. Confirmação</strong> - Revisão dos detalhes do agendamento.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="screenshots/tela de suceso.png" alt="Sucesso" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
-        <p><strong>6. Sucesso</strong> - Confirmação do agendamento realizado.</p>
-    </div>
-</div>
+### 1. Login do Cliente
+**Autenticação segura para acessar a plataforma**
+
+<img src="screenshots/login cliente.png" alt="Tela de Login" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
+
+### 2. Escolha do Barbeiro
+**Seleção de profissionais disponíveis**
+
+<img src="screenshots/escolha-dobarbeiro.png" alt="Escolha do Barbeiro" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
+
+### 3. Seleção de Data
+**Escolha da data e horário para o atendimento**
+
+<img src="screenshots/tela de datas.png" alt="Seleção de Data" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
+
+### 4. Escolha do Serviço
+**Seleção do tipo de corte desejado**
+
+<img src="screenshots/escolha do corte.png" alt="Escolha do Serviço" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
+
+### 5. Confirmação
+**Revisão dos detalhes do agendamento**
+
+<img src="screenshots/confirmaçao.png" alt="Confirmação" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
+
+### 6. Sucesso
+**Confirmação do agendamento realizado**
+
+<img src="screenshots/tela de suceso.png" alt="Sucesso" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
 
 ## 🛠️ Tecnologias Utilizadas
 
